@@ -42,7 +42,8 @@ $ cd FlappyBird
 <a id="technologiesused"></a>
 ## Technologies Used
 
-* SwiftUI.
+* SwiftUI;
+* Also I released background changing (depends on light/dark theme).
 
 <a id="contributing"></a>
 ## Contributing
