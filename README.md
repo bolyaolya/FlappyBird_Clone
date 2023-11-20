@@ -60,4 +60,9 @@ Contributions to the project are welcome and encouraged! If you find any bugs or
 I hope you enjoy using my FlappyBird Clone! If you have any questions or need assistance, feel free to contact me.
 
 > GitHub [@bolyaolya](https://github.com/bolyaolya) &nbsp;&middot;&nbsp;
-> LinkedIn [Olga Boyko](https://www.linkedin.com/in/olga-boyko/) 
+> LinkedIn [Olga Boyko](https://www.linkedin.com/in/olga-boyko/)
+
+
+## License
+
+[MIT](https://github.com/bolyaolya/FlappyBird_Clone/blob/main/LICENSE
