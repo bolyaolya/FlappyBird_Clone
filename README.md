@@ -65,4 +65,4 @@ I hope you enjoy using my FlappyBird Clone! If you have any questions or need as
 
 ## License
 
-[MIT](https://github.com/bolyaolya/FlappyBird_Clone/blob/main/LICENSE
+[MIT](https://github.com/bolyaolya/FlappyBird_Clone/blob/main/LICENSE)
