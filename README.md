@@ -14,7 +14,7 @@
 
 This project is a simple clone of Flappy Bird game. I used only SwiftUI framework (and in one place Combine for timer). This app consist of 3 screens: <br>
 • Start game, <br>
-• Game (actually) <br>
+• Game (obviously) <br>
 • and Results
 
 This Flappy Bird Clone project is not affiliated with or endorsed by Flappy Bird or any associated entities. It is created for educational purposes and as a demonstration of SwiftUI skills.
